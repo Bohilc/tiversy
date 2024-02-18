@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2114 518" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-805.562,-507.317)">
+        <g transform="matrix(3.88788,0,0,3.88788,-2326.37,-1465.07)">
+            <text x="798.362px" y="613.877px" style="font-family:'IBMPlexSans-Bold', 'IBM Plex Sans', sans-serif;font-weight:700;font-size:144px;fill:rgb(78,163,177);">QIN</text>
+            <g transform="matrix(144,0,0,144,1356.36,613.877)">
+            </g>
+            <text x="1067.64px" y="613.877px" style="font-family:'IBMPlexSans-Regular', 'IBM Plex Sans', sans-serif;font-size:144px;">W<tspan x="1193.79px " y="613.877px ">e</tspan>b</text>
+        </g>
+        <g transform="matrix(15.007,0,0,1.00835,-15099,-8.55139)">
+            <rect x="1077.96" y="955.71" width="46.994" height="68.913" style="fill:rgb(78,163,177);"/>
+        </g>
+        <g transform="matrix(24.1696,0,0,1.00835,-24270.7,-8.55139)">
+            <rect x="1077.96" y="955.71" width="46.994" height="68.913" style="fill-opacity:0.2;"/>
+        </g>
+    </g>
+</svg>
